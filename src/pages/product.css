@@ -1,0 +1,125 @@
+.see-all-product {
+  position: absolute;
+  top: 820px;
+  left: calc(50% - 112px);
+  text-decoration: underline;
+  line-height: 104%;
+  display: none;
+  width: 224px;
+}
+.discover-the-benefits {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 450px);
+  font-size: var(--font-size-53xl);
+  line-height: 104%;
+  display: inline-block;
+  width: 1296px;
+}
+.crop-health-is {
+  position: absolute;
+  top: 104px;
+  left: calc(50% - 105.5px);
+  line-height: 24px;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 540px;
+}
+.pumpkin-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-shadow: 0 19px 33px -16px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-6xl);
+  background-color: var(--text-light);
+  width: 281px;
+  height: 508px;
+}
+.minimize-losses,
+.minimizes-financial-losses {
+  position: absolute;
+  top: 284px;
+  left: calc(50% - 105.5px);
+  line-height: 24px;
+  display: inline-block;
+  width: 213px;
+}
+.minimizes-financial-losses {
+  top: 332px;
+  left: calc(50% - 94.5px);
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+  width: 191px;
+  height: 124px;
+}
+.pumpkin-item {
+  position: absolute;
+  top: 54px;
+  left: 47px;
+  border-radius: var(--br-6xl);
+  width: 189px;
+  height: 190px;
+  object-fit: cover;
+}
+.pumpkin {
+  position: absolute;
+  top: 0;
+  left: 688px;
+  width: 281px;
+  height: 508px;
+}
+.anywhere-anytime,
+.use-sanjivani-on-the-go {
+  position: absolute;
+  top: 271px;
+  left: calc(50% - 124.5px);
+  line-height: 24px;
+  display: inline-block;
+  width: 250px;
+}
+.use-sanjivani-on-the-go {
+  top: 332px;
+  left: calc(50% - 95.5px);
+  font-size: var(--font-size-base);
+  line-height: 30px;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+  width: 191px;
+  height: 124px;
+}
+.cabbage-item {
+  position: absolute;
+  top: 54px;
+  left: 46px;
+  border-radius: var(--br-6xl);
+  width: 189px;
+  height: 190px;
+  object-fit: cover;
+}
+.cabbage,
+.product1 {
+  position: absolute;
+  top: 10px;
+  left: 1009px;
+  width: 281px;
+  height: 508px;
+}
+.product1 {
+  top: 232px;
+  left: 6px;
+  width: 1290px;
+  height: 518px;
+  font-size: var(--font-size-5xl);
+}
+.product {
+  width: 100%;
+  position: relative;
+  height: 750px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-montserrat);
+}

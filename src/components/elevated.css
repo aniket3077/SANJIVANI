@@ -1,0 +1,36 @@
+.favorite-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+
+.label {
+  position: relative;
+  font-size: var(--font-size-8xl);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+  color: var(--text-light);
+  text-align: center;
+}
+
+.elevated {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xl) var(--padding-17xl);
+  background-color: var(--color-darkslategray-400);
+  box-shadow: var(--thin);
+  border-radius: var(--br-31xl);
+  display: flex;
+  flex-direction: row;
+  align-items: center; /* Centers content vertically */
+  justify-content: center; /* Centers content horizontally */
+  gap: var(--gap-9xs);
+  margin: auto; /* Centers the whole element in its container */
+}
+
+.elevated:hover {
+  background-color: var(--color-slategray-100);
+}

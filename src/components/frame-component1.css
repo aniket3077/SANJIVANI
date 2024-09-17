@@ -1,0 +1,25 @@
+.file-upload {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-254xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl-2);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+@media screen and (max-width: 1350px) {
+  .file-upload {
+    padding-bottom: var(--padding-158xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .file-upload {
+    padding-bottom: var(--padding-96xl);
+    box-sizing: border-box;
+  }
+}

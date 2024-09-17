@@ -1,0 +1,12 @@
+.home {
+  text-decoration: none;
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-raleway);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  min-width: 59px;
+  z-index: 1;
+}

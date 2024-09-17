@@ -1,0 +1,8 @@
+.navbar-buttons-child {
+  height: 48px;
+  width: 138px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-darkslategray-200);
+  display: none;
+}
