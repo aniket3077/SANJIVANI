@@ -41,7 +41,7 @@ const Hero = memo(({ className = "" }) => {
       </header>
       <div className="image-2-parent">
         <div className="image-2" />
-        <h1 className="video">video *</h1>
+        <h1 className="video"></h1>
       </div>
     </section>
   );
